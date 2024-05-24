@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseDatosMySQL</string>
+    <string name="empleados">Lista Empleados</string>
+    <string name="registro">Registros</string>
+</resources>
